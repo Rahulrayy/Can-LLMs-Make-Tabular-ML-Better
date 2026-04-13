@@ -316,12 +316,10 @@ All chart images are saved to Google Drive during the notebook run. To include t
 | Explainability | SHAP | Free |
 | Environment | Google Colab CPU | Free |
 
-Total cost to reproduce: £0
+Total cost to reproduce: 0
 
 ---
 
 ## Acknowledgements
 
 UCI Dataset from the UCI Machine Learning Repository. HMEQ Dataset originally from SAS Institute, redistributed for academic use. SHAP by Lundberg and Lee 2017. Optuna by Akiba et al 2019. sentence-transformers by Reimers and Gurevych 2019. Groq for fast free LLM inference.
-
-Built as part of an MSc in AI and Data Science. Full methodology and fix history documented in the notebook comments.
